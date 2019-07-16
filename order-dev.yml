@@ -1,3 +1,2 @@
-spring:          
-  redis:
-    host: 88888 
+redis:
+  host: 88888 
